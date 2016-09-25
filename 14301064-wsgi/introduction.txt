@@ -1,0 +1,6 @@
+此服务器python版本为2.7
+在python目录下的命令行中输入python wsgiserver.py wsgiapp:app后即启动服务器，端口号为8888。
+
+
+
+14301064-季振飞
